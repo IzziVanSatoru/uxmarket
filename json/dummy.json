@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ux-001",
+    "title": "Empty State with CTA",
+    "description": "Visual kosong dengan ilustrasi dan tombol aksi saat tidak ada data.",
+    "category": "empty",
+    "app": "Notion",
+    "image": ""
+  },
+  {
+    "id": "ux-002",
+    "title": "Onboarding Swipe Carousel",
+    "description": "Carousel swipeable untuk pengenalan fitur saat user baru.",
+    "category": "onboarding",
+    "app": "Duolingo",
+    "image": ""
+  },
+  {
+    "id": "ux-003",
+    "title": "Persistent Search Bar",
+    "description": "Search bar tetap terlihat saat halaman di-scroll.",
+    "category": "search",
+    "app": "Spotify",
+    "image": ""
+  },
+  {
+    "id": "ux-004",
+    "title": "Error Toast Notification",
+    "description": "Notifikasi kecil di pojok bawah saat terjadi kesalahan.",
+    "category": "error",
+    "app": "Figma",
+    "image": ""
+  },
+  {
+    "id": "ux-005",
+    "title": "Inline Form Suggestion",
+    "description": "Saran input muncul otomatis saat user mengetik.",
+    "category": "form",
+    "app": "Gmail",
+    "image": ""
+  }
+]

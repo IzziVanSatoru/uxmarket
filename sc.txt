@@ -1,0 +1,25 @@
+uxmarket/
+├── index.html                   # Entry HTML with Bootstrap 5
+├── vite.config.js
+├── package.json
+├── README.md
+├── public/
+│   └── favicon.svg              # (Opsional) Icon website
+├── json/
+│   └── dummy.json               # Seed data dummy UX patterns (max 5)
+├── src/
+│   ├── main.jsx                 # Entry point (render App.jsx)
+│   ├── App.jsx                  # Root component
+│   ├── utils/
+│   │   └── storage.js           # Helper untuk localStorage
+│   ├── data/
+│   │   └── categories.js        # Daftar kategori UX (onboarding, etc.)
+│   └── components/
+│       ├── UxCard.jsx           # Kartu untuk tiap UX pattern
+│       ├── UxForm.jsx           # Form tambah pattern
+│       ├── UxFilter.jsx         # Filter by kategori / app
+│       ├── UxExport.jsx         # Tombol export data
+│       └── EmptyState.jsx       # View kalau belum ada data
+
+gw mau design nya gelap lebih 
+astetik keren ala cyber punk 
